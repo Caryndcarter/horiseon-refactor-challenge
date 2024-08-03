@@ -32,9 +32,11 @@ header nav {
     font-size: 20px;
 }
 
+/*
 header ul {
     list-style-type: none;
 }
+*/
 
 header ul li {
     display: inline-block;
